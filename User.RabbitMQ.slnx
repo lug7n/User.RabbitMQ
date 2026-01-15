@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="User.RabbitMQ.Consumer/UserAPI.Consumer.csproj" />
+  <Project Path="User.RabbitMQ.Producer/User.Producer.csproj" />
+</Solution>
